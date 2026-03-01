@@ -101,6 +101,7 @@ Jika menjalankan `php artisan db:seed`, tersedia user contoh:
 **Lisensi**
 Proyek ini menggunakan lisensi MIT.
 
+
 **Web Developer by Yudha Wira Dharma**
 
 Instagram me: @yudha9c70

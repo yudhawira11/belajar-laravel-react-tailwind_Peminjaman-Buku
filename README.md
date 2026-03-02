@@ -1,4 +1,6 @@
 # Program Peminjaman Buku
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4c936c72-54ff-4908-a21b-0430a7d154b4" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0d170ba6-5ea0-4934-8135-746e6e92a5fc" />
 
 Aplikasi manajemen peminjaman buku berbasis **Laravel 12 (API)** + **React 19 (SPA)** + **Tailwind CSS 4** yang dibundel dengan **Vite**. Autentikasi menggunakan **Laravel Sanctum**.
 
